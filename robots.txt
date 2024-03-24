@@ -1,0 +1,3 @@
+User-agent: *
+Allow: / 
+Sitemap: http://ftp.naufaldev.my.id/sitemap.xml
